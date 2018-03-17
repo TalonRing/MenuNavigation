@@ -89,7 +89,7 @@ public class MenuNavigation : MonoBehaviour
 							OnRight();
 						}
 					} else {
-						if (speed.z < 0) {
+						if (speed.y > 0) {
 							OnUp();
 						} else {
 							OnDown();
