@@ -3478,7 +3478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   config:
-    ringMode: 0
+    ringMode: 1
     handedness: 0
     sensorEnabled: 1
     sensorRawData: 0
